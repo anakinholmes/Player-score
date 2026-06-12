@@ -49,5 +49,5 @@ The box plot examines how total player stats (an aggregated performance measure)
 
 <img src="image/2.png" alt="Figure 2" width="400" height="300">
  
-
+dss
  
